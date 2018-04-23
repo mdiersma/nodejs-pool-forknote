@@ -42,8 +42,8 @@
     "zmq": "^2.15.3"
   },
   "optionalDependencies": {
-    "cryptonote-util": "git://github.com/Snipa22/node-cryptonote-util.git#xmr-Nan-2.0",
+    "cryptonote-util": "git://github.com/turtlecoin/node-cryptonote-util.git",
     "forknote-util": "git://github.com/Bathmat/node-forknote-util.git",
-    "multi-hashing": "git+https://github.com/Snipa22/node-multi-hashing-aesni.git#v0.1"
+    "multi-hashing": "git://github.com/turtlecoin/node-multi-hashing-node8.git"
   }
 }
